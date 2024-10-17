@@ -1,8 +1,9 @@
-### Hello 
+## Introduction 
 Hello, I'm a developer aiming for sustainable growth.
 
 I'm currently focused on full-stack web development, with a particular interest in the backend.
 
+## Problem Solving
 ### BOJ 
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=ilovecoffee)](https://solved.ac/ilovecoffee/)
@@ -15,13 +16,17 @@ I'm currently focused on full-stack web development, with a particular interest 
 
 ![Leetcode Stats](https://leetcard.jacoblin.cool/fru1t_)
 
-### Velog
 
-[![fru1t Velog](http://img.shields.io/badge/-Velog-12b886?style=round-square&logo=Vimeo&logoColor=white&link=https://velog.io/@fru1t/)](https://velog.io/@fru1t)
 
-### external programs
+## external programs
+### NaverBoostCamp
 NaverBoostCamp Basic: June 24, 2024 ~ July 5, 2024 
 
 NaverBoostCamp Challenge: July 15, 2024 ~ August 9, 2024 
 
 NaverBoostCamp Membership: August 19, 2024 ~ December 6, 2024
+
+## etc
+### Velog
+
+[![fru1t Velog](http://img.shields.io/badge/-Velog-12b886?style=round-square&logo=Vimeo&logoColor=white&link=https://velog.io/@fru1t/)](https://velog.io/@fru1t)
