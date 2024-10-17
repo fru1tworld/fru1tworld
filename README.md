@@ -13,7 +13,7 @@ I'm currently focused on full-stack web development, with a particular interest 
 
 - Leetcode
 
-![Leetcode Stats](https://leetcard.jacoblin.cool/Fru1t)
+![Leetcode Stats](https://leetcard.jacoblin.cool/fru1t_)
 
 - Velog
 - 
