@@ -16,5 +16,5 @@ I'm currently focused on full-stack web development, with a particular interest 
 ![Leetcode Stats](https://leetcard.jacoblin.cool/fru1t_)
 
 ### Velog
-- 
+
 [![fru1t Velog](http://img.shields.io/badge/-Velog-12b886?style=round-square&logo=Vimeo&logoColor=white&link=https://velog.io/@fru1t/)](https://velog.io/@fru1t)
