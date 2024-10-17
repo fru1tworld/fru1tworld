@@ -18,3 +18,10 @@ I'm currently focused on full-stack web development, with a particular interest 
 ### Velog
 
 [![fru1t Velog](http://img.shields.io/badge/-Velog-12b886?style=round-square&logo=Vimeo&logoColor=white&link=https://velog.io/@fru1t/)](https://velog.io/@fru1t)
+
+### external programs
+NaverBoostCamp Basic: June 24, 2024 ~ July 5, 2024 
+
+NaverBoostCamp Challenge: July 15, 2024 ~ August 9, 2024 
+
+NaverBoostCamp Membership: August 19, 2024 ~ December 6, 2024
