@@ -11,5 +11,10 @@ I'm currently focused on full-stack web development, with a particular interest 
 
 [![CodeForces Profile](https://cf.leed.at?id={fru1t})](https://codeforces.com/profile/{fru1t})
 
+- Leetcode
+
+![Leetcode Stats](https://leetcard.jacoblin.cool/Fru1t)
+
 - Velog
+- 
 [![fru1t Velog](http://img.shields.io/badge/-Velog-12b886?style=round-square&logo=Vimeo&logoColor=white&link=https://velog.io/@fru1t/)](https://velog.io/@fru1t)
