@@ -9,7 +9,7 @@ I'm currently focused on full-stack web development, with a particular interest 
 
 - CodeForces
 
-[![CodeForces Profile](https://cf.leed.at?id={fru1t})](https://codeforces.com/profile/{fru1t})
+[![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=fru1t)](https://codeforces.com/profile/fru1t)
 
 - Leetcode
 
