@@ -29,4 +29,6 @@ NaverBoostCamp Membership: August 19, 2024 ~ December 6, 2024
 ## etc
 ### Blog
 [과일개발새발](https://fru1tworld.tistory.com/)
+### LinkedIn
+[LinkedIn](https://www.linkedin.com/in/hyeonjin-kim-4a1997340/)
 
