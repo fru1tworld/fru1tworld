@@ -4,7 +4,18 @@ Hello, I'm a developer aiming for sustainable growth.
 I'm currently focused on full-stack web development, with a particular interest in the backend.
 
 ## Project 
-[Honeyflow](https://github.com/boostcampwm-2024/web29-honeyflow)
+[HoneyFlow](https://github.com/boostcampwm-2024/web29-honeyflow)
+- 소개: 실시간 협업 동시 편집 플랫폼(WebSocket, CRDT(yjs))
+
+[Refactor HoneyFlow](https://github.com/boostcampwm-2024/refactor-web29-honeyflow)
+- 소개: HoneyFlow 리팩터링
+- 주요 내용 : API 서버와 WebSocket서버 분리 및 WebSocket 서버의 CPU 자원과 연결 상태를 Redis에 연동하여 Load-Balancer 서버 구현 및 WebSocket 확장(Scale-Out) 가능하도록 로직 수정
+  ](https://github.com/fru1tworld/fru1t-board)
+
+[fru1t-board](https://github.com/fru1tworld/fru1t-board)
+- 소개: SpringBoot(Java)로 직접 만들면서 배우는 대규모 시스템 설계 게시판
+
+
 ## Problem Solving
 ### BOJ 
 
