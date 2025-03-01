@@ -4,7 +4,7 @@
 
 문제해결을 좋아하고, 꾸준히 성장하고 싶어하는 개발자입니다. 
 
-## Project 
+## Toy Project 
 [fru1t board](https://github.com/fru1tworld/fru1tboard)
 - 소개: 백엔드 역량 강화를 위한 게시판 API 서버 프로젝트
   
@@ -25,7 +25,7 @@ NaverBoostCamp Challenge: July 15, 2024 ~ August 9, 2024
 
 NaverBoostCamp Membership: August 19, 2024 ~ December 6, 2024
 
-## etc
+## ETC
 ### Blog
 [과일개발새발](https://fru1tworld.tistory.com/)
 
