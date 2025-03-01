@@ -1,18 +1,36 @@
 ## Introduction 
-Hello, I'm a developer aiming for sustainable growth.
 
-I'm currently focused on full-stack web development, with a particular interest in the backend.
+안녕하세요. 
+
+문제해결을 좋아하고, 꾸준히 성장하고 싶어하는 개발자입니다. 
 
 ## Project 
+[fru1t board](https://github.com/fru1tworld/fru1tboard)
+- 소개: 백엔드 역량 강화를 위한 게시판 API 서버 프로젝트 
 [HoneyFlow](https://github.com/boostcampwm-2024/web29-honeyflow)
 - 소개: 실시간 협업 동시 편집 플랫폼(WebSocket, CRDT(yjs))
 
 [Refactor HoneyFlow](https://github.com/boostcampwm-2024/refactor-web29-honeyflow)
-- 소개: HoneyFlow 리팩터링
+- 소개: HoneyFlow 프로젝트 리팩터링
 - 주요 내용 : API 서버와 WebSocket서버 분리 및 WebSocket 서버의 CPU 자원과 연결 상태를 Redis에 연동하여 Load-Balancer 서버 구현 및 WebSocket 확장(Scale-Out) 가능하도록 로직 수정
   ](https://github.com/fru1tworld/fru1t-board)
 
 
+## External Programs
+### NaverBoostCamp
+NaverBoostCamp Basic: June 24, 2024 ~ July 5, 2024 
+
+NaverBoostCamp Challenge: July 15, 2024 ~ August 9, 2024 
+
+NaverBoostCamp Membership: August 19, 2024 ~ December 6, 2024
+
+## etc
+### Blog
+[과일개발새발](https://fru1tworld.tistory.com/)
+
+### Youtube 
+
+[백엔드취준생](https://www.youtube.com/@%EB%B0%B1%EC%97%94%EB%93%9C%EC%B7%A8%EC%A4%80%EC%83%9D)
 ## Problem Solving
 ### BOJ 
 
@@ -26,19 +44,4 @@ I'm currently focused on full-stack web development, with a particular interest 
 
 ![Leetcode Stats](https://leetcard.jacoblin.cool/fru1t_)
 
-
-
-## external programs
-### NaverBoostCamp
-NaverBoostCamp Basic: June 24, 2024 ~ July 5, 2024 
-
-NaverBoostCamp Challenge: July 15, 2024 ~ August 9, 2024 
-
-NaverBoostCamp Membership: August 19, 2024 ~ December 6, 2024
-
-## etc
-### Blog
-[과일개발새발](https://fru1tworld.tistory.com/)
-### LinkedIn
-[LinkedIn](https://www.linkedin.com/in/hyeonjin-kim-4a1997340/)
 
