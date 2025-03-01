@@ -6,7 +6,8 @@
 
 ## Project 
 [fru1t board](https://github.com/fru1tworld/fru1tboard)
-- 소개: 백엔드 역량 강화를 위한 게시판 API 서버 프로젝트 
+- 소개: 백엔드 역량 강화를 위한 게시판 API 서버 프로젝트
+  
 [HoneyFlow](https://github.com/boostcampwm-2024/web29-honeyflow)
 - 소개: 실시간 협업 동시 편집 플랫폼(WebSocket, CRDT(yjs))
 
