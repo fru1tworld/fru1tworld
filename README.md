@@ -13,8 +13,7 @@
 
 [Refactor HoneyFlow](https://github.com/boostcampwm-2024/refactor-web29-honeyflow)
 - 소개: HoneyFlow 프로젝트 리팩터링
-- 주요 내용 : API 서버와 WebSocket서버 분리 및 WebSocket 서버의 CPU 자원과 연결 상태를 Redis에 연동하여 Load-Balancer 서버 구현 및 WebSocket 확장(Scale-Out) 가능하도록 로직 수정
-  ](https://github.com/fru1tworld/fru1t-board)
+- 주요 내용 : API 서버와 WebSocket서버 분리 및 WebSocket 서버의 CPU 자원과 연결 상태를 Redis에 연동하여 Load-Balancer 서버 구현 및 WebSocket 확장(Scale-Out) 가능하도록 로직 수정 
 
 
 ## External Programs
@@ -29,20 +28,14 @@ NaverBoostCamp Membership: August 19, 2024 ~ December 6, 2024
 ### Blog
 [과일개발새발](https://fru1tworld.tistory.com/)
 
-### Youtube 
-
-[백엔드취준생](https://www.youtube.com/@%EB%B0%B1%EC%97%94%EB%93%9C%EC%B7%A8%EC%A4%80%EC%83%9D)
 ## Problem Solving
 ### BOJ 
-
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=ilovecoffee)](https://solved.ac/ilovecoffee/)
 
 ### CodeForces
-
 [![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=fru1t)](https://codeforces.com/profile/fru1t)
 
 ### Leetcode
-
 ![Leetcode Stats](https://leetcard.jacoblin.cool/fru1t_)
 
 
