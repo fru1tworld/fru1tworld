@@ -50,26 +50,27 @@
 
 ## Toy Project
 
-### honeyflow
-기간: 2024.10 ~ 2024.12
+### fru1t os 
+기간 2025.08~ 
 
-담당 역할: BackEnd(100%), Infra(100%)
+1인 개발 
 
-![네이버 부스트 캠프 그룹 프로젝트 HoneyFlow](https://github.com/boostcampwm-2024/web29-honeyflow)
+URL: [직접 만들면서 배우는 운영체제 fru1t os](https://github.com/fru1tworld/fru1t-os)
+
 
 ### fru1t board
 기간: 2025.02 
 
 1인 개발 
 
-![직접 만들면서 배우는 백엔드 게시판 서비스 fru1t board](https://github.com/fru1tworld/fru1tboard)
+URL: [직접 만들면서 배우는 백엔드 게시판 서비스 fru1t board](https://github.com/fru1tworld/fru1tboard)
 
-### fru1t os 
-기간 2025.08~ 
+### honeyflow
+기간: 2024.10 ~ 2024.12
 
-1인 개발 
+담당 역할: BackEnd(100%), Infra(100%)
 
-![직접 만들면서 배우는 운영체제 fru1t os](https://github.com/fru1tworld/fru1t-os)
+URL: [네이버 부스트 캠프 그룹 프로젝트 HoneyFlow](https://github.com/boostcampwm-2024/web29-honeyflow)
 
 
 
