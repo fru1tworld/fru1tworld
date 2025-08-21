@@ -73,4 +73,7 @@ URL: [직접 만들면서 배우는 백엔드 게시판 서비스 fru1t board](h
 URL: [네이버 부스트 캠프 그룹 프로젝트 HoneyFlow](https://github.com/boostcampwm-2024/web29-honeyflow)
 
 
+# Blog
+URL [티스토리 블로그](https://fru1tworld.tistory.com/)
+
 
