@@ -39,7 +39,7 @@ URL: [직접 만들면서 배우는 백엔드 게시판 서비스 fru1t board](h
 
 URL: [네이버 부스트 캠프 그룹 프로젝트 HoneyFlow](https://github.com/boostcampwm-2024/web29-honeyflow)
 
-개요: Notion의 계층 구조와 Obsidian의 마인드 맵 컨셉을 결합한 새로운 형태의 동시 편집이 가능한 학습 정리 플랫폼입니다. 
+개요: Notion의 계층 구조와 Obsidian의 마인드 맵 컨셉을 결합한 새로운 형태의 동시 편집이 가능한 실시간 동시 편집 학습 정리 플랫폼입니다. 
 
 ## Blog
 
