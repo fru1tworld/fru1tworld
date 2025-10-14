@@ -10,7 +10,7 @@
 [![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=fru1t)](https://codeforces.com/profile/fru1t)
 
 ### Leetcode
-![Leetcode Stats](https://leetcard.jacoblin.cool/fru1t_)
+[![Leetcode Stats](https://leetcard.jacoblin.cool/fru1t_)](https://leetcode.com/fru1t_/)
 
 # Toy Project
 ### 직접 구현하면서 배우는 가상 면접 시스템 설계 사례 
