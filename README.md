@@ -1,5 +1,5 @@
 # Introduction 
-안녕하세요.  [velog https://velog.io/@fru1tworld/posts](https://velog.io/@fru1tworld/posts)를 하고 있어요.
+안녕하세요.  [velog](https://velog.io/@fru1tworld/posts)를 하고 있어요.
 
 ## 기술스택
 
