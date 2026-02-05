@@ -1,5 +1,20 @@
 # Introduction 
-안녕하세요. 
+안녕하세요.  [velog](https://velog.io/@fru1tworld/posts)를 하고 있어요.
+
+## 기술스택
+
+### 익숙해요
+
+MySQL, PostgreSQL, Redis, Elasticsearch, Apache Kafka, Git, Linux, Docker
+
+### 할 줄 알아요
+
+Python, Typescript, Java, AWS, Kubernetes
+
+### 관심있어요
+
+Kotlin, Rust, Go, ML/DL
+
 
 
 ## Problem Solving
@@ -11,4 +26,5 @@
 
 ### Leetcode
 ![Leetcode Stats](https://leetcard.jacoblin.cool/fru1t_)
+
 
