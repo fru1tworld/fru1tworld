@@ -25,6 +25,6 @@ Kotlin, Rust, Go, ML/DL
 [![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=fru1t)](https://codeforces.com/profile/fru1t)
 
 ### Leetcode
-![Leetcode Stats](https://leetcard.jacoblin.cool/fru1t_)
+[![Leetcode Stats](https://leetcard.jacoblin.cool/fru1t_)](https://leetcode.com/fru1t_/)
 
 
