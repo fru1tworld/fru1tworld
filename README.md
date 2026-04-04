@@ -68,5 +68,8 @@
 - 다양한 Shell 환경에서 디렉터리 이동을 편하게 도와주는 CLI에요.
 
 # Open Source Contribution
+### [rust-lang/rust](https://github.com/rust-lang/rust)
+- [PR #154703](https://github.com/rust-lang/rust/pull/154703): Fix trailing comma in lifetime suggestion for empty angle brackets
+
 ### [Spring Cloud Gateway](https://github.com/spring-cloud/spring-cloud-gateway)
 - [PR #4133](https://github.com/spring-cloud/spring-cloud-gateway/pull/4133): Fix broken GitHub links in Server MVC How It Works documentation
