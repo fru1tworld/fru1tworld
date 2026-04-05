@@ -9,9 +9,6 @@
 ### [Spring Cloud Gateway](https://github.com/spring-cloud/spring-cloud-gateway)
 - [PR #4133](https://github.com/spring-cloud/spring-cloud-gateway/pull/4133): Fix broken GitHub links in Server MVC How It Works documentation
 
-### [Ghostty](https://github.com/ghostty-org/ghostty)
-- [PR #12118](https://github.com/ghostty-org/ghostty/pull/12118/changes): PTY dimensions not updated after closing splits on macOS.
-
 ## 기술 스택
 
 ### 익숙해요
