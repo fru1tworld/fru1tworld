@@ -9,6 +9,12 @@
 ### [Spring Cloud Gateway](https://github.com/spring-cloud/spring-cloud-gateway)
 - [PR #4133](https://github.com/spring-cloud/spring-cloud-gateway/pull/4133): Fix broken GitHub links in Server MVC How It Works documentation
 
+### [mise](https://github.com/jdx/mise)
+- [PR #8939](https://github.com/jdx/mise/pull/8939): docs(python): clarify attestation settings must be under [settings] in mise.toml
+
+### [Ghostty](https://github.com/ghostty-org/ghostty)
+- [PR #12143](https://github.com/ghostty-org/ghostty/pull/12143): macOS: force surface layout sync in updateOSView
+
 ## 기술 스택
 
 ### 익숙해요
