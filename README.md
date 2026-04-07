@@ -15,6 +15,10 @@
 ### [Ghostty](https://github.com/ghostty-org/ghostty)
 - [PR #12143](https://github.com/ghostty-org/ghostty/pull/12143): macOS: force surface layout sync in updateOSView
 
+### [ktor](https://github.com/ktorio/ktor)
+- [PR #5506](https://github.com/ktorio/ktor/pull/5506): Add KDoc for ktor-network public APIs
+
+
 ## 기술 스택
 
 ### 익숙해요
