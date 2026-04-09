@@ -6,6 +6,13 @@
 ### [rust-lang/rust](https://github.com/rust-lang/rust)
 - [PR #154703](https://github.com/rust-lang/rust/pull/154703): Fix trailing comma in lifetime suggestion for empty angle brackets
 
+### [ktor](https://github.com/ktorio/ktor)
+- [PR #5506](https://github.com/ktorio/ktor/pull/5506): Add KDoc for ktor-network public APIs
+- [PR #5511](https://github.com/ktorio/ktor/pull/5511): Fix scoped Sessions plugin not sending Set-Cookie without call.respond()
+
+### [NestJS](https://github.com/nestjs/nest)
+- [PR #16742](https://github.com/nestjs/nest/pull/16742): fix(socket.io): Deduplicate disconnect listener in bindMessageHandlers
+
 ### [Redis](https://github.com/redis/redis)
 - [PR #14989](https://github.com/redis/redis/pull/14989): Use SHUTDOWN instead of CLUSTER RESET SOFT in del-node
 
@@ -19,9 +26,6 @@
 ### [Ghostty](https://github.com/ghostty-org/ghostty)
 - [PR #12143](https://github.com/ghostty-org/ghostty/pull/12143): macOS: force surface layout sync in updateOSView
 
-### [ktor](https://github.com/ktorio/ktor)
-- [PR #5506](https://github.com/ktorio/ktor/pull/5506): Add KDoc for ktor-network public APIs
-- [PR #5511](https://github.com/ktorio/ktor/pull/5511): Fix scoped Sessions plugin not sending Set-Cookie without call.respond()
 
 ## 기술 스택
 
