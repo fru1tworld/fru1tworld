@@ -2,29 +2,23 @@
 안녕하세요. 
 최근에 [velog](https://velog.io/@fru1tworld/posts)를 하고 있어요.
 
-# Open Source Contribution
-### [rust-lang/rust](https://github.com/rust-lang/rust)
-- [PR #154703](https://github.com/rust-lang/rust/pull/154703): Fix trailing comma in lifetime suggestion for empty angle brackets
-
-### [ktor](https://github.com/ktorio/ktor)
-- [PR #5506](https://github.com/ktorio/ktor/pull/5506): Add KDoc for ktor-network public APIs
-- [PR #5511](https://github.com/ktorio/ktor/pull/5511): Fix scoped Sessions plugin not sending Set-Cookie without call.respond()
-
-### [NestJS](https://github.com/nestjs/nest)
-- [PR #16742](https://github.com/nestjs/nest/pull/16742): fix(socket.io): Deduplicate disconnect listener in bindMessageHandlers
-
-### [Redis](https://github.com/redis/redis)
-- [PR #14989](https://github.com/redis/redis/pull/14989): Use SHUTDOWN instead of CLUSTER RESET SOFT in del-node
-
+# Open Source Contribution (Merged)
 ### [Spring Cloud Gateway](https://github.com/spring-cloud/spring-cloud-gateway)
-- [PR #4133](https://github.com/spring-cloud/spring-cloud-gateway/pull/4133): Fix broken GitHub links in Server MVC How It Works documentation
-- [PR #4137](https://github.com/spring-cloud/spring-cloud-gateway/pull/4137): Add URI template support to ProxyExchange for observability
+- [PR #4133](https://github.com/spring-cloud/spring-cloud-gateway/pull/4133): Fix broken GitHub links in Server MVC How It Works documentation (2026-04-02)
+- [PR #4137](https://github.com/spring-cloud/spring-cloud-gateway/pull/4137): Add URI template support to ProxyExchange for observability (2026-04-09)
+
+### [rust-lang/rust](https://github.com/rust-lang/rust)
+- [PR #154703](https://github.com/rust-lang/rust/pull/154703): Fix trailing comma in lifetime suggestion for empty angle brackets (2026-04-04)
 
 ### [mise](https://github.com/jdx/mise)
-- [PR #8939](https://github.com/jdx/mise/pull/8939): docs(python): clarify attestation settings must be under [settings] in mise.toml
+- [PR #8939](https://github.com/jdx/mise/pull/8939): docs(python): clarify attestation settings must be under [settings] in mise.toml (2026-04-06)
 
 ### [Ghostty](https://github.com/ghostty-org/ghostty)
-- [PR #12143](https://github.com/ghostty-org/ghostty/pull/12143): macOS: force surface layout sync in updateOSView
+- [PR #12143](https://github.com/ghostty-org/ghostty/pull/12143): macOS: force surface layout sync in updateOSView (2026-04-06)
+
+### [ktor](https://github.com/ktorio/ktor)
+- [PR #5506](https://github.com/ktorio/ktor/pull/5506): Add KDoc for ktor-network public APIs (2026-04-07)
+- [PR #5511](https://github.com/ktorio/ktor/pull/5511): Fix scoped Sessions plugin not sending Set-Cookie without call.respond() (2026-04-08)
 
 
 ## 기술 스택
