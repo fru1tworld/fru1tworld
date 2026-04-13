@@ -2,7 +2,7 @@
 안녕하세요. 
 최근에 [velog](https://velog.io/@fru1tworld/posts)를 하고 있어요.
 
-# Open Source Contribution (Merged)
+# Open Source Contributions
 ### [Spring Cloud Gateway](https://github.com/spring-cloud/spring-cloud-gateway)
 - [PR #4133](https://github.com/spring-cloud/spring-cloud-gateway/pull/4133): Fix broken GitHub links in Server MVC How It Works documentation (2026-04-02)
 - [PR #4137](https://github.com/spring-cloud/spring-cloud-gateway/pull/4137): Add URI template support to ProxyExchange for observability (2026-04-09)
