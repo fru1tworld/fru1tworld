@@ -19,7 +19,7 @@
 ### [ktor](https://github.com/ktorio/ktor)
 - [PR #5506](https://github.com/ktorio/ktor/pull/5506): Add KDoc for ktor-network public APIs (2026-04-07)
 - [PR #5511](https://github.com/ktorio/ktor/pull/5511): Fix scoped Sessions plugin not sending Set-Cookie without call.respond() (2026-04-08)
-- [PR #5521](https://github.com/ktorio/ktor/pull/5521): Add ByteArray constructor to InetSocketAddress
+- [PR #5521](https://github.com/ktorio/ktor/pull/5521): Add ByteArray constructor to InetSocketAddress (2026-04-13)
 
 
 ## 기술 스택
