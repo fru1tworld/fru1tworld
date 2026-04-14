@@ -16,7 +16,7 @@
 ### [Redis](https://github.com/redis/redis)
 - [PR #14989](https://github.com/redis/redis/pull/14989): Use SHUTDOWN instead of CLUSTER RESET SOFT in del-node (2026-04-15)
 
-### [netty]((https://github.com/netty/netty/)
+### [netty]((https://github.com/netty/netty)
 [PR #16633](https://github.com/netty/netty/pull/16633): Add maxFrameLength support to ProtobufVarint32FrameDecoder (2026-04-15)
 
 ### [rust-lang/rust](https://github.com/rust-lang/rust)
