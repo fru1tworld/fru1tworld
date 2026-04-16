@@ -14,12 +14,14 @@
 - [PR #4133](https://github.com/spring-cloud/spring-cloud-gateway/pull/4133): Fix broken GitHub links in Server MVC How It Works documentation (2026-04-02)
 - [PR #4137](https://github.com/spring-cloud/spring-cloud-gateway/pull/4137): Add URI template support to ProxyExchange for observability (2026-04-09)
 
+### [NestJS](https://github.com/nestjs/nest)
+- [PR #16742](https://github.com/nestjs/nest/pull/16742): fix(socket.io): Deduplicate disconnect listener in bindMessageHandlers (2026-04-16)
+
 ### [Redis](https://github.com/redis/redis)
 - [PR #14989](https://github.com/redis/redis/pull/14989): Use SHUTDOWN instead of CLUSTER RESET SOFT in del-node (2026-04-15)
 
 ### [Netty](https://github.com/netty/netty)
 - [PR #16633](https://github.com/netty/netty/pull/16633): Add maxFrameLength support to ProtobufVarint32FrameDecoder (2026-04-15)
-- [PR #16742](https://github.com/nestjs/nest/pull/16742): fix(socket.io): Deduplicate disconnect listener in bindMessageHandlers (2026-04-16)
 
 ### [rust-lang/rust](https://github.com/rust-lang/rust)
 - [PR #154703](https://github.com/rust-lang/rust/pull/154703): Fix trailing comma in lifetime suggestion for empty angle brackets (2026-04-04)
