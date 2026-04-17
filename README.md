@@ -8,37 +8,37 @@
 
 # Open Source Contributions
 ### [ktor](https://github.com/ktorio/ktor)
-- [PR #5506](https://github.com/ktorio/ktor/pull/5506): Add KDoc for ktor-network public APIs (2026-04-07)
-- [PR #5511](https://github.com/ktorio/ktor/pull/5511): Fix scoped Sessions plugin not sending Set-Cookie without call.respond() (2026-04-08)
-- [PR #5521](https://github.com/ktorio/ktor/pull/5521): Add ByteArray constructor to InetSocketAddress (2026-04-13)
-- [PR #5522](https://github.com/ktorio/ktor/pull/5522): Add requireXxx extension functions for ApplicationCall (2026-04-14)
-- [PR #5528](https://github.com/ktorio/ktor/pull/5528): Fix awaitContent returning true for closed empty channel (2026-04-16)
+- [PR #5506](https://github.com/ktorio/ktor/pull/5506): Add KDoc for ktor-network public APIs (2026-04)
+- [PR #5511](https://github.com/ktorio/ktor/pull/5511): Fix scoped Sessions plugin not sending Set-Cookie without call.respond() (2026-04)
+- [PR #5521](https://github.com/ktorio/ktor/pull/5521): Add ByteArray constructor to InetSocketAddress (2026-04)
+- [PR #5522](https://github.com/ktorio/ktor/pull/5522): Add requireXxx extension functions for ApplicationCall (2026-04)
+- [PR #5528](https://github.com/ktorio/ktor/pull/5528): Fix awaitContent returning true for closed empty channel (2026-04)
   
 ### [Spring Cloud Gateway](https://github.com/spring-cloud/spring-cloud-gateway)
-- [PR #4133](https://github.com/spring-cloud/spring-cloud-gateway/pull/4133): Fix broken GitHub links in Server MVC How It Works documentation (2026-04-02)
-- [PR #4137](https://github.com/spring-cloud/spring-cloud-gateway/pull/4137): Add URI template support to ProxyExchange for observability (2026-04-09)
+- [PR #4133](https://github.com/spring-cloud/spring-cloud-gateway/pull/4133): Fix broken GitHub links in Server MVC How It Works documentation (2026-04)
+- [PR #4137](https://github.com/spring-cloud/spring-cloud-gateway/pull/4137): Add URI template support to ProxyExchange for observability (2026-04)
 
 ### [NestJS](https://github.com/nestjs/nest)
-- [PR #16742](https://github.com/nestjs/nest/pull/16742): fix(socket.io): Deduplicate disconnect listener in bindMessageHandlers (2026-04-16)
+- [PR #16742](https://github.com/nestjs/nest/pull/16742): fix(socket.io): Deduplicate disconnect listener in bindMessageHandlers (2026-04)
 
 ### [Redis](https://github.com/redis/redis)
-- [PR #14989](https://github.com/redis/redis/pull/14989): Use SHUTDOWN instead of CLUSTER RESET SOFT in del-node (2026-04-15)
+- [PR #14989](https://github.com/redis/redis/pull/14989): Use SHUTDOWN instead of CLUSTER RESET SOFT in del-node (2026-04)
 
 ### [Netty](https://github.com/netty/netty)
-- [PR #16633](https://github.com/netty/netty/pull/16633): Add maxFrameLength support to ProtobufVarint32FrameDecoder (2026-04-17)
+- [PR #16633](https://github.com/netty/netty/pull/16633): Add maxFrameLength support to ProtobufVarint32FrameDecoder (2026-04)
 
 ### [detekt](https://github.com/detekt/detekt)
-- [PR #9250](https://github.com/detekt/detekt/pull/9250): Suggest similar property names for misspelled config properties (2026-04-17)
+- [PR #9250](https://github.com/detekt/detekt/pull/9250): Suggest similar property names for misspelled config properties (2026-04)
 
 ### [rust-lang/rust](https://github.com/rust-lang/rust)
-- [PR #154703](https://github.com/rust-lang/rust/pull/154703): Fix trailing comma in lifetime suggestion for empty angle brackets (2026-04-04)
+- [PR #154703](https://github.com/rust-lang/rust/pull/154703): Fix trailing comma in lifetime suggestion for empty angle brackets (2026-04)
 
 ### [Ghostty](https://github.com/ghostty-org/ghostty)
-- [PR #12143](https://github.com/ghostty-org/ghostty/pull/12143): macOS: force surface layout sync in updateOSView (2026-04-06)
+- [PR #12143](https://github.com/ghostty-org/ghostty/pull/12143): macOS: force surface layout sync in updateOSView (2026-04)
 
 ### [mise](https://github.com/jdx/mise)
-- [PR #9081](https://github.com/jdx/mise/pull/9081): fix(activate): export __MISE_EXE and resolve bare ARGV0 to absolute path (2026-04-15)
-- [PR #8939](https://github.com/jdx/mise/pull/8939): docs(python): clarify attestation settings must be under [settings] in mise.toml (2026-04-06)
+- [PR #9081](https://github.com/jdx/mise/pull/9081): fix(activate): export __MISE_EXE and resolve bare ARGV0 to absolute path (2026-04)
+- [PR #8939](https://github.com/jdx/mise/pull/8939): docs(python): clarify attestation settings must be under [settings] in mise.toml (2026-04)
 
 
 
