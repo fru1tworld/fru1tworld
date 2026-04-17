@@ -23,6 +23,9 @@
 ### [Netty](https://github.com/netty/netty)
 - [PR #16633](https://github.com/netty/netty/pull/16633): Add maxFrameLength support to ProtobufVarint32FrameDecoder (2026-04-17)
 
+### [detekt](https://github.com/detekt/detekt)
+- [PR #9250](https://github.com/detekt/detekt/pull/9250): Suggest similar property names for misspelled config properties (2026-04-17)
+
 ### [rust-lang/rust](https://github.com/rust-lang/rust)
 - [PR #154703](https://github.com/rust-lang/rust/pull/154703): Fix trailing comma in lifetime suggestion for empty angle brackets (2026-04-04)
 
@@ -32,6 +35,8 @@
 ### [mise](https://github.com/jdx/mise)
 - [PR #9081](https://github.com/jdx/mise/pull/9081): fix(activate): export __MISE_EXE and resolve bare ARGV0 to absolute path (2026-04-15)
 - [PR #8939](https://github.com/jdx/mise/pull/8939): docs(python): clarify attestation settings must be under [settings] in mise.toml (2026-04-06)
+
+
 
 
 ## 기술 스택
