@@ -10,9 +10,11 @@
 ### [ktor](https://github.com/ktorio/ktor)
 - [PR #5506](https://github.com/ktorio/ktor/pull/5506): Add KDoc for ktor-network public APIs (2026-04)
 - [PR #5511](https://github.com/ktorio/ktor/pull/5511): Fix scoped Sessions plugin not sending Set-Cookie without call.respond() (2026-04)
+- [PR #5512](https://github.com/ktorio/ktor/pull/5512): Fix HttpTimeout not respecting test dispatchers in runTest (2026-04)
 - [PR #5521](https://github.com/ktorio/ktor/pull/5521): Add ByteArray constructor to InetSocketAddress (2026-04)
 - [PR #5522](https://github.com/ktorio/ktor/pull/5522): Add requireXxx extension functions for ApplicationCall (2026-04)
 - [PR #5528](https://github.com/ktorio/ktor/pull/5528): Fix awaitContent returning true for closed empty channel (2026-04)
+
   
 ### [Spring Cloud Gateway](https://github.com/spring-cloud/spring-cloud-gateway)
 - [PR #4133](https://github.com/spring-cloud/spring-cloud-gateway/pull/4133): Fix broken GitHub links in Server MVC How It Works documentation (2026-04)
