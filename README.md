@@ -28,7 +28,7 @@
 
 ### [Netty](https://github.com/netty/netty)
 - [PR #16633](https://github.com/netty/netty/pull/16633): Add maxFrameLength support to ProtobufVarint32FrameDecoder (2026-04)
-
+- [PR #16665](https://github.com/netty/netty/pull/16665): Update outdated codec-http3 README.md (2026-04) 
 ### [detekt](https://github.com/detekt/detekt)
 - [PR #9250](https://github.com/detekt/detekt/pull/9250): Suggest similar property names for misspelled config properties (2026-04)
 
