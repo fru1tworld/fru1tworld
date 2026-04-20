@@ -35,12 +35,13 @@
 ### [rust-lang/rust](https://github.com/rust-lang/rust)
 - [PR #154703](https://github.com/rust-lang/rust/pull/154703): Fix trailing comma in lifetime suggestion for empty angle brackets (2026-04)
 
-### [Ghostty](https://github.com/ghostty-org/ghostty)
-- [PR #12143](https://github.com/ghostty-org/ghostty/pull/12143): macOS: force surface layout sync in updateOSView (2026-04)
-
 ### [mise](https://github.com/jdx/mise)
 - [PR #9081](https://github.com/jdx/mise/pull/9081): fix(activate): export __MISE_EXE and resolve bare ARGV0 to absolute path (2026-04)
 - [PR #8939](https://github.com/jdx/mise/pull/8939): docs(python): clarify attestation settings must be under [settings] in mise.toml (2026-04)
+
+### [Ghostty](https://github.com/ghostty-org/ghostty)
+- [PR #12143](https://github.com/ghostty-org/ghostty/pull/12143): macOS: force surface layout sync in updateOSView (2026-04)
+
 
 
 
