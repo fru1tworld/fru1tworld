@@ -34,6 +34,7 @@
 
 ### [rust-lang/rust](https://github.com/rust-lang/rust)
 - [PR #154703](https://github.com/rust-lang/rust/pull/154703): Fix trailing comma in lifetime suggestion for empty angle brackets (2026-04)
+- [PR #154933](https://github.com/rust-lang/rust/pull/154933): Suggest removing & when awaiting a reference to a future (2026-04)
 
 ### [mise](https://github.com/jdx/mise)
 - [PR #9081](https://github.com/jdx/mise/pull/9081): fix(activate): export __MISE_EXE and resolve bare ARGV0 to absolute path (2026-04)
