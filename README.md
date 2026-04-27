@@ -24,32 +24,28 @@
 - [PR #154703](https://github.com/rust-lang/rust/pull/154703): Fix trailing comma in lifetime suggestion for empty angle brackets (2026-04)
 - [PR #154933](https://github.com/rust-lang/rust/pull/154933): Suggest removing & when awaiting a reference to a future (2026-04)
 
-### [torvalds/linux](https://github.com/torvalds/linux)
+## [torvalds/linux](https://github.com/torvalds/linux)
 - [8cfbcf36](https://git.kernel.org/pub/scm/linux/kernel/git/docs/linux.git/commit/?h=docs-next&id=8cfbcf36f97c5c9e70fe16c82a0f3782b8d67fe9) [PATCH v2] docs: fix typos in kernel documentation
 
-### [Spring Cloud Gateway](https://github.com/spring-cloud/spring-cloud-gateway)
+## [Spring Cloud Gateway](https://github.com/spring-cloud/spring-cloud-gateway)
 - [PR #4133](https://github.com/spring-cloud/spring-cloud-gateway/pull/4133): Fix broken GitHub links in Server MVC How It Works documentation (2026-04)
 - [PR #4137](https://github.com/spring-cloud/spring-cloud-gateway/pull/4137): Add URI template support to ProxyExchange for observability (2026-04)
 
-### [NestJS](https://github.com/nestjs/nest)
+## [NestJS](https://github.com/nestjs/nest)
 - [PR #16742](https://github.com/nestjs/nest/pull/16742): fix(socket.io): Deduplicate disconnect listener in bindMessageHandlers (2026-04)
 
-### [Redis](https://github.com/redis/redis)
+## [Redis](https://github.com/redis/redis)
 - [PR #14989](https://github.com/redis/redis/pull/14989): Use SHUTDOWN instead of CLUSTER RESET SOFT in del-node (2026-04)
 
-### [detekt](https://github.com/detekt/detekt)
+## [detekt](https://github.com/detekt/detekt)
 - [PR #9250](https://github.com/detekt/detekt/pull/9250): Suggest similar property names for misspelled config properties (2026-04)
 
-### [mise](https://github.com/jdx/mise)
+## [mise](https://github.com/jdx/mise)
 - [PR #9081](https://github.com/jdx/mise/pull/9081): fix(activate): export __MISE_EXE and resolve bare ARGV0 to absolute path (2026-04)
 - [PR #8939](https://github.com/jdx/mise/pull/8939): docs(python): clarify attestation settings must be under [settings] in mise.toml (2026-04)
 
-### [Ghostty](https://github.com/ghostty-org/ghostty)
+## [Ghostty](https://github.com/ghostty-org/ghostty)
 - [PR #12143](https://github.com/ghostty-org/ghostty/pull/12143): macOS: force surface layout sync in updateOSView (2026-04)
-
-
-
-
 
 ## 기술 스택
 
