@@ -15,6 +15,7 @@
 - [PR #5522](https://github.com/ktorio/ktor/pull/5522): Add requireXxx extension functions for ApplicationCall (2026-04)
 - [PR #5528](https://github.com/ktorio/ktor/pull/5528): Fix awaitContent returning true for closed empty channel (2026-04)
 - [PR #5538](https://github.com/ktorio/ktor/pull/5538): Add sendOnlyIfModified option to skip unchanged session resend (2026-04)
+- [PR #5557](https://github.com/ktorio/ktor/pull/5557): Fix auto-reload leaving server stopped after failed reload (2026-04)
 
 ## [Netty](https://github.com/netty/netty)
 - [PR #16633](https://github.com/netty/netty/pull/16633): Add maxFrameLength support to ProtobufVarint32FrameDecoder (2026-04)
