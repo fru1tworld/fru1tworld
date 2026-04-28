@@ -19,6 +19,7 @@
 ## [Netty](https://github.com/netty/netty)
 - [PR #16633](https://github.com/netty/netty/pull/16633): Add maxFrameLength support to ProtobufVarint32FrameDecoder (2026-04)
 - [PR #16665](https://github.com/netty/netty/pull/16665): Update outdated codec-http3 README.md (2026-04)
+- [PR #16712](https://github.com/netty/netty/pull/16712): Consolidate fake exceptions in HTTP/2 tests into Http2TestUtil (2026-04)
 
 ## [rust-lang/rust](https://github.com/rust-lang/rust)
 - [PR #154703](https://github.com/rust-lang/rust/pull/154703): Fix trailing comma in lifetime suggestion for empty angle brackets (2026-04)
