@@ -33,6 +33,10 @@
 - [PR #4133](https://github.com/spring-cloud/spring-cloud-gateway/pull/4133): Fix broken GitHub links in Server MVC How It Works documentation (2026-04)
 - [PR #4137](https://github.com/spring-cloud/spring-cloud-gateway/pull/4137): Add URI template support to ProxyExchange for observability (2026-04)
 
+## [mise](https://github.com/jdx/mise)
+- [PR #9081](https://github.com/jdx/mise/pull/9081): fix(activate): export __MISE_EXE and resolve bare ARGV0 to absolute path (2026-04)
+- [PR #8939](https://github.com/jdx/mise/pull/8939): docs(python): clarify attestation settings must be under [settings] in mise.toml (2026-04)
+  
 ## [NestJS](https://github.com/nestjs/nest)
 - [PR #16742](https://github.com/nestjs/nest/pull/16742): fix(socket.io): Deduplicate disconnect listener in bindMessageHandlers (2026-04)
 
@@ -41,10 +45,6 @@
 
 ## [detekt](https://github.com/detekt/detekt)
 - [PR #9250](https://github.com/detekt/detekt/pull/9250): Suggest similar property names for misspelled config properties (2026-04)
-
-## [mise](https://github.com/jdx/mise)
-- [PR #9081](https://github.com/jdx/mise/pull/9081): fix(activate): export __MISE_EXE and resolve bare ARGV0 to absolute path (2026-04)
-- [PR #8939](https://github.com/jdx/mise/pull/8939): docs(python): clarify attestation settings must be under [settings] in mise.toml (2026-04)
 
 ## [Ghostty](https://github.com/ghostty-org/ghostty)
 - [PR #12143](https://github.com/ghostty-org/ghostty/pull/12143): macOS: force surface layout sync in updateOSView (2026-04)
