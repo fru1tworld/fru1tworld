@@ -30,7 +30,7 @@
 ## [torvalds/linux](https://github.com/torvalds/linux)
 - [8cfbcf36](https://git.kernel.org/pub/scm/linux/kernel/git/docs/linux.git/commit/?h=docs-next&id=8cfbcf36f97c5c9e70fe16c82a0f3782b8d67fe9) [PATCH v2] docs: fix typos in kernel documentation
 
-## [Node.js]
+## [Node.js](https://github.com/nodejs/node/)
 - [issues #63000](https://github.com/nodejs/node/issues/63000) http2: Http2ServerResponse missing writableObjectMode and writableNeedDrain
 
 ## [Spring Cloud Gateway](https://github.com/spring-cloud/spring-cloud-gateway)
