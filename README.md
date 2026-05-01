@@ -16,6 +16,7 @@
 - [PR #5528](https://github.com/ktorio/ktor/pull/5528): Fix awaitContent returning true for closed empty channel (2026-04)
 - [PR #5538](https://github.com/ktorio/ktor/pull/5538): Add sendOnlyIfModified option to skip unchanged session resend (2026-04)
 - [PR #5557](https://github.com/ktorio/ktor/pull/5557): Fix auto-reload leaving server stopped after failed reload (2026-04)
+- [PR #5563](https://github.com/ktorio/ktor/pull/5563): Log client-disconnect IOException at TRACE in Netty HTTP/1 handler (2026-04)
 
 ## [Netty](https://github.com/netty/netty)
 - [PR #16633](https://github.com/netty/netty/pull/16633): Add maxFrameLength support to ProtobufVarint32FrameDecoder (2026-04)
@@ -28,6 +29,9 @@
 
 ## [torvalds/linux](https://github.com/torvalds/linux)
 - [8cfbcf36](https://git.kernel.org/pub/scm/linux/kernel/git/docs/linux.git/commit/?h=docs-next&id=8cfbcf36f97c5c9e70fe16c82a0f3782b8d67fe9) [PATCH v2] docs: fix typos in kernel documentation
+
+## [Node.js]
+- [issues #63000](https://github.com/nodejs/node/issues/63000) http2: Http2ServerResponse missing writableObjectMode and writableNeedDrain
 
 ## [Spring Cloud Gateway](https://github.com/spring-cloud/spring-cloud-gateway)
 - [PR #4133](https://github.com/spring-cloud/spring-cloud-gateway/pull/4133): Fix broken GitHub links in Server MVC How It Works documentation (2026-04)
