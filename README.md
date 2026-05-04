@@ -37,11 +37,7 @@
 ### 할 줄 알아요
 #### Infra
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
-
-### 관심 있어요
 ![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
-![ML/DL](https://img.shields.io/badge/ML%2FDL-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
 
 ## 알고리즘 문제 해결
 [![Solved.ac](http://mazassumnida.wtf/api/mini/generate_badge?boj=ilovecoffee)](https://solved.ac/ilovecoffee/)
@@ -49,7 +45,7 @@
 [![LeetCode](https://img.shields.io/badge/LeetCode-fru1t__-FFA116?style=flat-square&logo=leetcode&logoColor=white)](https://leetcode.com/fru1t_)
 
 
-# Toy Projects 
+# Repositories
 [직접 만들면서 배우는 LLM](https://github.com/bllm-study/cohebot)
 - LLM을 만들고 있어요.
 
