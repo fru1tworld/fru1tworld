@@ -10,6 +10,7 @@
 ## 2026-05 
 ### Ktor
 - [PR #5570](https://github.com/ktorio/ktor/pull/5570): Add dns config to OkHttp engine
+- [PR #5571](https://github.com/ktorio/ktor/pull/5571): Add dnsResolver config to Apache5 engine
 - [PR #5572](https://github.com/ktorio/ktor/pull/5572): Add eventProvider to Heartbeat for dynamic SSE events
 - [PR #5573](https://github.com/ktorio/ktor/pull/5573): Client. Always quote name and filename in multipart Content-Disposition
 
