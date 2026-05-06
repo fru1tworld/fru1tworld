@@ -13,6 +13,7 @@
 - [PR #5571](https://github.com/ktorio/ktor/pull/5571): Add dnsResolver config to Apache5 engine
 - [PR #5572](https://github.com/ktorio/ktor/pull/5572): Add eventProvider to Heartbeat for dynamic SSE events
 - [PR #5573](https://github.com/ktorio/ktor/pull/5573): Client. Always quote name and filename in multipart Content-Disposition
+- [PR #5579](https://github.com/ktorio/ktor/pull/5579): Add regression test for case-insensitive Set-Cookie merging in CIO
 
 ## 2026-04 — [기여 일지](https://velog.io/@fru1tworld/2026%EB%85%84-4%EC%9B%94-%EC%98%A4%ED%94%88-%EC%86%8C%EC%8A%A4-%EA%B8%B0%EC%97%AC-%EC%9D%BC%EC%A7%80)
 - [ktor](https://github.com/ktorio/ktor) — 8건
