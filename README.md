@@ -8,7 +8,7 @@
 
 # Open Source Contributions
 ## 2026-05 
-### [ktor](https://github.com/ktorio/ktor)
+### [ktor (11)](https://github.com/ktorio/ktor)
 - [PR #5570](https://github.com/ktorio/ktor/pull/5570): Add dns config to OkHttp engine
 - [PR #5571](https://github.com/ktorio/ktor/pull/5571): Add dnsResolver config to Apache5 engine
 - [PR #5572](https://github.com/ktorio/ktor/pull/5572): Add eventProvider to Heartbeat for dynamic SSE events
@@ -18,6 +18,8 @@
 - [PR #5581](https://github.com/ktorio/ktor/pull/5581): Forward original CancellationException in attachToUserJob
 - [PR #5591](https://github.com/ktorio/ktor/pull/5591): Allow custom WebSocket close codes in OkHttp engine
 - [PR #5592](https://github.com/ktorio/ktor/pull/5592): Add secureRequestCustomizer config to Jetty Jakarta engine
+- [PR #5596](https://github.com/ktorio/ktor/pull/5596): Allow opting out of MeterFilter registration in MicrometerMetrics
+- [PR #5597](https://github.com/ktorio/ktor/pull/5597): Add TDM-Reservation and TDM-Policy header constants
 
 ## 2026-04 — [기여 일지](https://velog.io/@fru1tworld/2026%EB%85%84-4%EC%9B%94-%EC%98%A4%ED%94%88-%EC%86%8C%EC%8A%A4-%EA%B8%B0%EC%97%AC-%EC%9D%BC%EC%A7%80)
 - [ktor](https://github.com/ktorio/ktor) — 8건
