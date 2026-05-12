@@ -8,7 +8,7 @@ Lately I've been writing on [velog](https://velog.io/@fru1tworld/posts).
 
 # Open Source Contributions
 ## 2026-05
-### [ktor (13)](https://github.com/ktorio/ktor)
+### [ktor (14)](https://github.com/ktorio/ktor)
 - [PR #5535](https://github.com/ktorio/ktor/pull/5535): Add clear API to HttpCache for clearing all cached data
 - [PR #5570](https://github.com/ktorio/ktor/pull/5570): Add dns config to OkHttp engine
 - [PR #5571](https://github.com/ktorio/ktor/pull/5571): Add dnsResolver config to Apache5 engine
