@@ -25,6 +25,9 @@ Lately I've been writing on [velog](https://velog.io/@fru1tworld/posts).
 - [PR #5597](https://github.com/ktorio/ktor/pull/5597): Add TDM-Reservation and TDM-Policy header constants
 - [PR #5560](https://github.com/ktorio/ktor/pull/5600): Respect parameters in contentType and accept route selectors
 
+### Node.js
+- [PR #63272](https://github.com/nodejs/node/pull/63272): crypto: surface OpenSSL errors in Certificate.exportPublicKey
+
 ## 2026-04 — [Contribution log](https://velog.io/@fru1tworld/2026%EB%85%84-4%EC%9B%94-%EC%98%A4%ED%94%88-%EC%86%8C%EC%8A%A4-%EA%B8%B0%EC%97%AC-%EC%9D%BC%EC%A7%80)
 - [ktor](https://github.com/ktorio/ktor) — 8 PRs
 - [Netty](https://github.com/netty/netty) — 3 PRs
