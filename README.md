@@ -16,8 +16,9 @@ Lately I've been writing on [velog](https://velog.io/@fru1tworld/posts).
 - [PR #5573](https://github.com/ktorio/ktor/pull/5573): Client. Always quote name and filename in multipart Content-Disposition
 - [PR #5579](https://github.com/ktorio/ktor/pull/5579): Add regression test for case-insensitive Set-Cookie merging in CIO
 - [PR #5557](https://github.com/ktorio/ktor/pull/5557): Fix auto-reload leaving server stopped after failed reload
-- [PR #5586](https://github.com/ktorio/ktor/pull/5586): Decode URL-encoded path before matching watch patterns
 - [PR #5581](https://github.com/ktorio/ktor/pull/5581): Forward original CancellationException in attachToUserJob
+- [PR #5586](https://github.com/ktorio/ktor/pull/5586): Decode URL-encoded path before matching watch patterns
+- [PR #5587](https://github.com/ktorio/ktor/pull/5587): Clean up resources when bind fails with non-BindException
 - [PR #5591](https://github.com/ktorio/ktor/pull/5591): Allow custom WebSocket close codes in OkHttp engine
 - [PR #5592](https://github.com/ktorio/ktor/pull/5592): Add secureRequestCustomizer config to Jetty Jakarta engine
 - [PR #5596](https://github.com/ktorio/ktor/pull/5596): Allow opting out of MeterFilter registration in MicrometerMetrics
