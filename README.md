@@ -29,7 +29,11 @@ Lately I've been writing on [velog](https://velog.io/@fru1tworld/posts).
 - [PR #63272](https://github.com/nodejs/node/pull/63272): crypto: surface OpenSSL errors in Certificate.exportPublicKey
 
 ### [detekt/detekt](https://github.com/detekt/detekt)
-- [PR #9316](https://github.com/detekt/detekt/pull/9316)
+- [PR #9316](https://github.com/detekt/detekt/pull/9316): docs: fix KMP type resolution task names
+
+### [netty/netty](https://github.com/netty/netty)
+- [PR #16809](https://github.com/netty/netty/pull/16809): Make permessage-deflate server window size and memLevel configurable
+
 ## 2026-04 — [Contribution log](https://velog.io/@fru1tworld/2026%EB%85%84-4%EC%9B%94-%EC%98%A4%ED%94%88-%EC%86%8C%EC%8A%A4-%EA%B8%B0%EC%97%AC-%EC%9D%BC%EC%A7%80)
 - [ktor](https://github.com/ktorio/ktor) — 8 PRs
 - [Netty](https://github.com/netty/netty) — 3 PRs
