@@ -8,7 +8,7 @@ Lately I've been writing on [velog](https://velog.io/@fru1tworld/posts).
 
 # Open Source Contributions
 ## 2026-05
-### [ktor (14)](https://github.com/ktorio/ktor)
+### [ktorio/ktor (14)](https://github.com/ktorio/ktor)
 - [PR #5535](https://github.com/ktorio/ktor/pull/5535): Add clear API to HttpCache for clearing all cached data
 - [PR #5570](https://github.com/ktorio/ktor/pull/5570): Add dns config to OkHttp engine
 - [PR #5571](https://github.com/ktorio/ktor/pull/5571): Add dnsResolver config to Apache5 engine
@@ -25,9 +25,11 @@ Lately I've been writing on [velog](https://velog.io/@fru1tworld/posts).
 - [PR #5597](https://github.com/ktorio/ktor/pull/5597): Add TDM-Reservation and TDM-Policy header constants
 - [PR #5560](https://github.com/ktorio/ktor/pull/5600): Respect parameters in contentType and accept route selectors
 
-### [Node.js](https://github.com/nodejs/node)
+### [nodejs/node](https://github.com/nodejs/node)
 - [PR #63272](https://github.com/nodejs/node/pull/63272): crypto: surface OpenSSL errors in Certificate.exportPublicKey
 
+### [detekt/detekt](https://github.com/detekt/detekt)
+- [PR #9316](https://github.com/detekt/detekt/pull/9316)
 ## 2026-04 — [Contribution log](https://velog.io/@fru1tworld/2026%EB%85%84-4%EC%9B%94-%EC%98%A4%ED%94%88-%EC%86%8C%EC%8A%A4-%EA%B8%B0%EC%97%AC-%EC%9D%BC%EC%A7%80)
 - [ktor](https://github.com/ktorio/ktor) — 8 PRs
 - [Netty](https://github.com/netty/netty) — 3 PRs
