@@ -25,6 +25,10 @@ Lately I've been writing on [velog](https://velog.io/@fru1tworld/posts).
 - [PR #5597](https://github.com/ktorio/ktor/pull/5597): Add TDM-Reservation and TDM-Policy header constants
 - [PR #5560](https://github.com/ktorio/ktor/pull/5600): Respect parameters in contentType and accept route selectors
 
+### [ktorio/ktor-documentation](https://github.com/ktorio/ktor-documentation)
+- [PR #813](https://github.com/ktorio/ktor-documentation/pull/813): Fix broken /free-api link in rate-limit README
+- [PR #814](https://github.com/ktorio/ktor-documentation/pull/814): Use yyyy instead of YYYY in logback date pattern
+
 ### [nodejs/node](https://github.com/nodejs/node)
 - [PR #63272](https://github.com/nodejs/node/pull/63272): crypto: surface OpenSSL errors in Certificate.exportPublicKey
 
