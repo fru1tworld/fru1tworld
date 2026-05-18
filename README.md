@@ -24,6 +24,7 @@ Lately I've been writing on [velog](https://velog.io/@fru1tworld/posts).
 - [PR #5596](https://github.com/ktorio/ktor/pull/5596): Allow opting out of MeterFilter registration in MicrometerMetrics
 - [PR #5597](https://github.com/ktorio/ktor/pull/5597): Add TDM-Reservation and TDM-Policy header constants
 - [PR #5560](https://github.com/ktorio/ktor/pull/5600): Respect parameters in contentType and accept route selectors
+- [PR #5626](https://github.com/ktorio/ktor/pull/5626): Don't close unopened file in readChannel
 
 ### [ktorio/ktor-documentation](https://github.com/ktorio/ktor-documentation)
 - [PR #813](https://github.com/ktorio/ktor-documentation/pull/813): Fix broken /free-api link in rate-limit README
