@@ -38,6 +38,9 @@ Lately I've been writing on [velog](https://velog.io/@fru1tworld/posts).
 ### [netty/netty](https://github.com/netty/netty)
 - [PR #16809](https://github.com/netty/netty/pull/16809): Make permessage-deflate server window size and memLevel configurable
 
+### [grafana/grafana](https://github.com/grafana/grafana)
+- [PR #125052]((https://github.com/grafana/grafana/pull/125052)): RemoteCache: Fix database backend cache stuck after clock skew
+
 ## 2026-04 — [Contribution log](https://velog.io/@fru1tworld/2026%EB%85%84-4%EC%9B%94-%EC%98%A4%ED%94%88-%EC%86%8C%EC%8A%A4-%EA%B8%B0%EC%97%AC-%EC%9D%BC%EC%A7%80)
 - [ktor](https://github.com/ktorio/ktor) — 8 PRs
 - [Netty](https://github.com/netty/netty) — 3 PRs
