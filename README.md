@@ -25,7 +25,7 @@ Lately I've been writing on [velog](https://velog.io/@fru1tworld/posts).
 - [PR #5597](https://github.com/ktorio/ktor/pull/5597): Add TDM-Reservation and TDM-Policy header constants
 - [PR #5560](https://github.com/ktorio/ktor/pull/5600): Respect parameters in contentType and accept route selectors
 - [PR #5626](https://github.com/ktorio/ktor/pull/5626): Don't close unopened file in readChannel
-- [PR #5627](https://github.com/ktorio/ktor/pull/5627):Support nested jars in static resources
+- [PR #5627](https://github.com/ktorio/ktor/pull/5627): Support nested jars in static resources
 
 ### [ktorio/ktor-documentation](https://github.com/ktorio/ktor-documentation)
 - [PR #813](https://github.com/ktorio/ktor-documentation/pull/813): Fix broken /free-api link in rate-limit README
@@ -34,14 +34,14 @@ Lately I've been writing on [velog](https://velog.io/@fru1tworld/posts).
 ### [nodejs/node](https://github.com/nodejs/node)
 - [PR #63272](https://github.com/nodejs/node/pull/63272): crypto: surface OpenSSL errors in Certificate.exportPublicKey
 
-### [detekt/detekt](https://github.com/detekt/detekt)
-- [PR #9316](https://github.com/detekt/detekt/pull/9316): docs: fix KMP type resolution task names
-
 ### [netty/netty](https://github.com/netty/netty)
 - [PR #16809](https://github.com/netty/netty/pull/16809): Make permessage-deflate server window size and memLevel configurable
 
 ### [grafana/grafana](https://github.com/grafana/grafana)
 - [PR #125052](https://github.com/grafana/grafana/pull/125052): RemoteCache: Fix database backend cache stuck after clock skew
+
+### [detekt/detekt](https://github.com/detekt/detekt)
+- [PR #9316](https://github.com/detekt/detekt/pull/9316): docs: fix KMP type resolution task names
 
 ### [jdk/mise](https://github.com/jdx/mise/pull/9953)
 - [PR #9953](https://github.com/jdx/mise/pull/9953): add --global flag for editing the global config file
