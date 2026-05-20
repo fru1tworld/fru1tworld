@@ -8,7 +8,7 @@ Lately I've been writing on [velog](https://velog.io/@fru1tworld/posts).
 
 # Open Source Contributions
 ## 2026-05
-### [ktorio/ktor (16)](https://github.com/ktorio/ktor)
+### [ktorio/ktor (19)](https://github.com/ktorio/ktor)
 - [PR #5535](https://github.com/ktorio/ktor/pull/5535): Add clear API to HttpCache for clearing all cached data
 - [PR #5570](https://github.com/ktorio/ktor/pull/5570): Add dns config to OkHttp engine
 - [PR #5571](https://github.com/ktorio/ktor/pull/5571): Add dnsResolver config to Apache5 engine
@@ -26,6 +26,8 @@ Lately I've been writing on [velog](https://velog.io/@fru1tworld/posts).
 - [PR #5560](https://github.com/ktorio/ktor/pull/5600): Respect parameters in contentType and accept route selectors
 - [PR #5626](https://github.com/ktorio/ktor/pull/5626): Don't close unopened file in readChannel
 - [PR #5627](https://github.com/ktorio/ktor/pull/5627): Support nested jars in static resources
+- [PR #5636](https://github.com/ktorio/ktor/pull/5636): Use cipher block size for session IV
+- [PR #5638](https://github.com/ktorio/ktor/pull/5638): Show actual Unix socket path in startup log
 
 ### [ktorio/ktor-documentation](https://github.com/ktorio/ktor-documentation)
 - [PR #813](https://github.com/ktorio/ktor-documentation/pull/813): Fix broken /free-api link in rate-limit README
