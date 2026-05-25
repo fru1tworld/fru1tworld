@@ -47,7 +47,7 @@
 - [PR #9982](https://github.com/jdx/mise/pull/9982): combine --pip-args value to avoid argparse error
 
 
-## 2026-04 — [Contribution log](https://velog.io/@fru1tworld/2026%EB%85%84-4%EC%9B%94-%EC%98%A4%ED%94%88-%EC%86%8C%EC%8A%A4-%EA%B8%B0%EC%97%AC-%EC%9D%BC%EC%A7%80)
+## [2026년 4월 오픈 소스 기여일지](https://blog.fruitworld.dev/posts/2026%EB%85%84-4%EC%9B%94-%EC%98%A4%ED%94%88-%EC%86%8C%EC%8A%A4-%EA%B8%B0%EC%97%AC-%EC%9D%BC%EC%A7%80/)
 - [ktor](https://github.com/ktorio/ktor) — 8 PRs
 - [Netty](https://github.com/netty/netty) — 3 PRs
 - [Spring Cloud Gateway](https://github.com/spring-cloud/spring-cloud-gateway), [rust-lang/rust](https://github.com/rust-lang/rust), [mise](https://github.com/jdx/mise) — 2 PRs each
