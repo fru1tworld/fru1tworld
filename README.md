@@ -1,9 +1,5 @@
 # Introduction
-Hi there.
-
-I'm a developer with a interest in distributed systems, databases, and networking.
-
-Lately I've been writing on [velog](https://velog.io/@fru1tworld/posts).
+안녕하세요! 최근 블로그를 하고 있어요. [blog](https://blog.fruitworld.dev/).
 
 
 # Open Source Contributions
