@@ -20,6 +20,7 @@
 - [PR #5596](https://github.com/ktorio/ktor/pull/5596): Allow opting out of MeterFilter registration in MicrometerMetrics
 - [PR #5597](https://github.com/ktorio/ktor/pull/5597): Add TDM-Reservation and TDM-Policy header constants
 - [PR #5600](https://github.com/ktorio/ktor/pull/5600): Respect parameters in contentType and accept route selectors
+- [PR #5604](https://github.com/ktorio/ktor/pull/5604): Add list-returning variant of parseClientCookiesHeader
 - [PR #5626](https://github.com/ktorio/ktor/pull/5626): Don't close unopened file in readChannel
 - [PR #5627](https://github.com/ktorio/ktor/pull/5627): Support nested jars in static resources
 - [PR #5636](https://github.com/ktorio/ktor/pull/5636): Use cipher block size for session IV
