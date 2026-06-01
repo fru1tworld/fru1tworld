@@ -1,52 +1,11 @@
 # Introduction
 안녕하세요! 최근 블로그를 하고 있어요. [blog](https://blog.fruitworld.dev/).
 
-
 # Open Source Contributions
-## 2026-05
-### [ktorio/ktor (19)](https://github.com/ktorio/ktor)
-- [PR #5535](https://github.com/ktorio/ktor/pull/5535): Add clear API to HttpCache for clearing all cached data
-- [PR #5570](https://github.com/ktorio/ktor/pull/5570): Add dns config to OkHttp engine
-- [PR #5571](https://github.com/ktorio/ktor/pull/5571): Add dnsResolver config to Apache5 engine
-- [PR #5572](https://github.com/ktorio/ktor/pull/5572): Add eventProvider to Heartbeat for dynamic SSE events
-- [PR #5573](https://github.com/ktorio/ktor/pull/5573): Client. Always quote name and filename in multipart Content-Disposition
-- [PR #5579](https://github.com/ktorio/ktor/pull/5579): Add regression test for case-insensitive Set-Cookie merging in CIO
-- [PR #5557](https://github.com/ktorio/ktor/pull/5557): Fix auto-reload leaving server stopped after failed reload
-- [PR #5581](https://github.com/ktorio/ktor/pull/5581): Forward original CancellationException in attachToUserJob
-- [PR #5586](https://github.com/ktorio/ktor/pull/5586): Decode URL-encoded path before matching watch patterns
-- [PR #5587](https://github.com/ktorio/ktor/pull/5587): Clean up resources when bind fails with non-BindException
-- [PR #5591](https://github.com/ktorio/ktor/pull/5591): Allow custom WebSocket close codes in OkHttp engine
-- [PR #5592](https://github.com/ktorio/ktor/pull/5592): Add secureRequestCustomizer config to Jetty Jakarta engine
-- [PR #5596](https://github.com/ktorio/ktor/pull/5596): Allow opting out of MeterFilter registration in MicrometerMetrics
-- [PR #5597](https://github.com/ktorio/ktor/pull/5597): Add TDM-Reservation and TDM-Policy header constants
-- [PR #5600](https://github.com/ktorio/ktor/pull/5600): Respect parameters in contentType and accept route selectors
-- [PR #5604](https://github.com/ktorio/ktor/pull/5604): Add list-returning variant of parseClientCookiesHeader
-- [PR #5626](https://github.com/ktorio/ktor/pull/5626): Don't close unopened file in readChannel
-- [PR #5627](https://github.com/ktorio/ktor/pull/5627): Support nested jars in static resources
-- [PR #5636](https://github.com/ktorio/ktor/pull/5636): Use cipher block size for session IV
-- [PR #5638](https://github.com/ktorio/ktor/pull/5638): Show actual Unix socket path in startup log
-
-### [ktorio/ktor-documentation](https://github.com/ktorio/ktor-documentation)
-- [PR #813](https://github.com/ktorio/ktor-documentation/pull/813): Fix broken /free-api link in rate-limit README
-- [PR #814](https://github.com/ktorio/ktor-documentation/pull/814): Use yyyy instead of YYYY in logback date pattern
-- [PR #817](https://github.com/ktorio/ktor-documentation/pull/814): Document the required trailing slash on the default base path\
-  
-### [nodejs/node](https://github.com/nodejs/node)
-- [PR #63272](https://github.com/nodejs/node/pull/63272): crypto: surface OpenSSL errors in Certificate.exportPublicKey
-
-### [netty/netty](https://github.com/netty/netty)
-- [PR #16809](https://github.com/netty/netty/pull/16809): Make permessage-deflate server window size and memLevel configurable
-
-### [grafana/grafana](https://github.com/grafana/grafana)
-- [PR #125052](https://github.com/grafana/grafana/pull/125052): RemoteCache: Fix database backend cache stuck after clock skew
-
-### [detekt/detekt](https://github.com/detekt/detekt)
-- [PR #9316](https://github.com/detekt/detekt/pull/9316): docs: fix KMP type resolution task names
-
-### [jdk/mise](https://github.com/jdx/mise/pull/9953)
-- [PR #9953](https://github.com/jdx/mise/pull/9953): add --global flag for editing the global config file
-- [PR #9982](https://github.com/jdx/mise/pull/9982): combine --pip-args value to avoid argparse error
-
+## [2026년 5월 오픈 소스 기여일지](https://blog.fruitworld.dev/posts/2026%EB%85%84-5%EC%9B%94-%EC%98%A4%ED%94%88-%EC%86%8C%EC%8A%A4-%EA%B8%B0%EC%97%AC-%EC%9D%BC%EC%A7%80/)
+- [ktor](https://github.com/ktorio/ktor) — 19 PRs
+- [Ktor Documentation](https://github.com/ktorio/ktor-documentation) - 3 PRs
+- [detekt](https://github.com/detekt/detekt), [mise](https://github.com/jdx/mise) 1 PR each
 
 ## [2026년 4월 오픈 소스 기여일지](https://blog.fruitworld.dev/posts/2026%EB%85%84-4%EC%9B%94-%EC%98%A4%ED%94%88-%EC%86%8C%EC%8A%A4-%EA%B8%B0%EC%97%AC-%EC%9D%BC%EC%A7%80/)
 - [ktor](https://github.com/ktorio/ktor) — 8 PRs
