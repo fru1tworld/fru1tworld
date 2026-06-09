@@ -43,9 +43,6 @@
 
 
 # Repositories
-[Build Your Own LLM](https://github.com/bllm-study/cohebot)
-- Building an LLM
-
 [fru1t OS](https://github.com/fru1tworld/fru1t-os)
 - A toy operating system I built.
 
