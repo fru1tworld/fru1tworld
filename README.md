@@ -18,7 +18,6 @@
 ## [2026년 4월 오픈 소스 기여일지](https://blog.fruitworld.dev/posts/2026%EB%85%84-4%EC%9B%94-%EC%98%A4%ED%94%88-%EC%86%8C%EC%8A%A4-%EA%B8%B0%EC%97%AC-%EC%9D%BC%EC%A7%80/)
 - [ktor](https://github.com/ktorio/ktor) — 8 PRs
 - [Netty](https://github.com/netty/netty) — 3 PRs
-- [Spring Cloud Gateway](https://github.com/spring-cloud/spring-cloud-gateway), [rust-lang/rust](https://github.com/rust-lang/rust), [mise](https://github.com/jdx/mise) — 2 PRs each
 - [NestJS](https://github.com/nestjs/nest), [detekt](https://github.com/detekt/detekt), [Ghostty](https://github.com/ghostty-org/ghostty), [torvalds/linux](https://github.com/torvalds/linux) — 1 PR each
 
 ## Tech Stack
