@@ -30,7 +30,6 @@
 ![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white)
 
 #### Frameworks
-![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white)
 ![Ktor](https://img.shields.io/badge/Ktor-000000?style=flat-square&logo=ktor&logoColor=white)
 
 #### Infrastructure
