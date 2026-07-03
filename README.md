@@ -6,7 +6,6 @@
 ### ktor
 - [PR #5577](https://github.com/ktorio/ktor/pull/5577): Add async DNS resolvers to CIO engine
 - [PR #5634](https://github.com/ktorio/ktor/pull/5634): Rethrow closedCause after copyTo
-- 
 ### Netty
 - [PR #16809](https://github.com/netty/netty/pull/16809): Make permessage-deflate server window size and memLevel configurable
 
