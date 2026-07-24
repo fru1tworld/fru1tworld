@@ -29,9 +29,11 @@
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white)
 ![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white)
+![Scala](https://img.shields.io/badge/Scala-DC322F?style=flat-square&logo=scala&logoColor=white) 
 
 #### Frameworks
 ![Ktor](https://img.shields.io/badge/Ktor-000000?style=flat-square&logo=ktor&logoColor=white)
+![ZIO](https://img.shields.io/badge/ZIO-DD1244?style=flat-square&logo=zio&logoColor=white)
 
 #### Infrastructure
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
