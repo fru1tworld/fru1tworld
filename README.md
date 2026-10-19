@@ -1,5 +1,6 @@
 # Introduction
-안녕하세요! 최근 블로그를 하고 있어요. [blog](https://blog.fruitworld.dev/).
+안녕하세요! 최근 블로그를 하고 있어요. 
+- https://blog.fruitworld.dev/
 
 # Open Source Contributions
 ## [2026-08 - 09]
