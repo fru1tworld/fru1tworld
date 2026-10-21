@@ -3,6 +3,10 @@
 - https://blog.fruitworld.dev/
 
 # Open Source Contributions
+## [2026-10]
+### Netty
+- [PR #16666](https://github.com/netty/netty/pull/16666): Avoid unnecessary String allocation in WebSocketServerProtocolHandshakeHandler
+
 ## [2026-08 - 09]
 ### Gradle
 - [PR #38889](https://github.com/gradle/gradle/pull/38889): Skip Scala configuration in IdeaPlugin with Isolated Projects, leave it only for project generator tasks
