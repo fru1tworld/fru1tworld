@@ -2,36 +2,6 @@
 안녕하세요! 최근 블로그를 하고 있어요. 
 - https://blog.fruitworld.dev/
 
-# Open Source Contributions
-## [2026-10]
-### Netty
-- [PR #16666](https://github.com/netty/netty/pull/16666): Avoid unnecessary String allocation in WebSocketServerProtocolHandshakeHandler
-
-## [2026-08 - 09]
-### Gradle
-- [PR #38889](https://github.com/gradle/gradle/pull/38889): Skip Scala configuration in IdeaPlugin with Isolated Projects, leave it only for project generator tasks
-- [PR #39311](https://github.com/gradle/gradle/pull/39311): Delete .tasty files of removed Scala 3 classes
-
-### Spring Cloud Gateway
-- [PR #4134](https://github.com/spring-cloud/spring-cloud-gateway/pull/4134): Add warn logging when WebSocket message receive fails
-
-### Electric
-- [PR #4097](https://github.com/electric-sql/electric/pull/4097): Document why shape handles get deleted
-
-## [2026년 6-7월 오픈 소스 기여일지](https://blog.fruitworld.dev/posts/2026%EB%85%84-6-7%EC%9B%94-%EC%98%A4%ED%94%88-%EC%86%8C%EC%8A%A4-%EA%B8%B0%EC%97%AC-%EC%9D%BC%EC%A7%80/)
-- [ktor](https://github.com/ktorio/ktor): 3 PRs
-- [Netty](https://github.com/netty/netty), [Fedify](https://github.com/fedify-dev/fedify): 1 PR each
-
-## [2026년 5월 오픈 소스 기여일지](https://blog.fruitworld.dev/posts/2026%EB%85%84-5%EC%9B%94-%EC%98%A4%ED%94%88-%EC%86%8C%EC%8A%A4-%EA%B8%B0%EC%97%AC-%EC%9D%BC%EC%A7%80/)
-- [ktor](https://github.com/ktorio/ktor): 19 PRs
-- [Ktor Documentation](https://github.com/ktorio/ktor-documentation): 3 PRs
-- [detekt](https://github.com/detekt/detekt), [mise](https://github.com/jdx/mise): 1 PR each
-
-## [2026년 4월 오픈 소스 기여일지](https://blog.fruitworld.dev/posts/2026%EB%85%84-4%EC%9B%94-%EC%98%A4%ED%94%88-%EC%86%8C%EC%8A%A4-%EA%B8%B0%EC%97%AC-%EC%9D%BC%EC%A7%80/)
-- [ktor](https://github.com/ktorio/ktor): 8 PRs
-- [Netty](https://github.com/netty/netty): 3 PRs
-- [NestJS](https://github.com/nestjs/nest), [detekt](https://github.com/detekt/detekt), [Ghostty](https://github.com/ghostty-org/ghostty), [torvalds/linux](https://github.com/torvalds/linux): 1 PR each
-
 ## Tech Stack
 
 #### Languages
@@ -56,18 +26,3 @@
 [![Solved.ac](http://mazassumnida.wtf/api/mini/generate_badge?boj=ilovecoffee)](https://solved.ac/ilovecoffee/)
 [![Codeforces](https://img.shields.io/badge/Codeforces-fru1t-1F8ACB?style=flat-square&logo=codeforces&logoColor=white)](https://codeforces.com/profile/fru1t)
 [![LeetCode](https://img.shields.io/badge/LeetCode-fru1t__-FFA116?style=flat-square&logo=leetcode&logoColor=white)](https://leetcode.com/fru1t_)
-
-
-# Repositories
-[fru1t OS](https://github.com/fru1tworld/fru1t-os)
-- A toy operating system I built.
-
-[honeyflow](https://github.com/boostcampwm-2024/web29-honeyflow)
-- A real-time collaborative editing platform built with WebSocket and CRDTs.
-
-[tp-cli](https://github.com/fru1tworld/tp-cli)
-- A cross-shell CLI that makes directory navigation easier.
-
-# Personal Study Repos
-[cs-study](https://github.com/fru1tworld/cs-study)
-- My personal CS study repo.
