@@ -1,7 +1,3 @@
-# Introduction
-안녕하세요! 최근 블로그를 하고 있어요. 
-- https://blog.fruitworld.dev/
-
 ## Tech Stack
 
 #### Languages
